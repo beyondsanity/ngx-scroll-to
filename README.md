@@ -2,11 +2,11 @@
   <img src="https://user-images.githubusercontent.com/2785350/28428760-ae908006-6d7a-11e7-92ec-174bec80740e.png">
 </div>
 <div align="center">
-  <h1>ngx-scroll-to</h1>
+  <h1>@nearit/ngx-scroll-to</h1>
+  <p>A fork from the @nicky-lenaers/ngx-scroll-to with Angular 8 support</p>
   <p>
     A simple Angular 4+ plugin enabling you to smooth scroll to any element on your page and enhance scroll-based features in your app. Works for <strong>Angular 4+</strong>, both <strong>AoT</strong> and <strong>SSR</strong>. No dependencies.
-  </p>
-  <strong>Support for Angular 7!</strong>
+  </p> 
   <br/>
   <br/>
 </div>
